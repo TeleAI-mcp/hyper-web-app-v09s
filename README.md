@@ -1,2 +1,3 @@
-# hyper-web-app-v09s
-A web application for modern development workflows
+# Hyper Web App V09S
+
+A web application for modern development workflows.
